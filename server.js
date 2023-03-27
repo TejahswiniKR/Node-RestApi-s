@@ -8,7 +8,7 @@ app.get('/',async (req,res)=>{
 })
 
 app.listen(3000, ()=> {
-    console.log('Nodejs application runnimg on port 3000')
+    console.log('Nodejs application on port 3000')
 })
-jhjh
+
 
